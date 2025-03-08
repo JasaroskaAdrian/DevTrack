@@ -1,0 +1,25 @@
+{
+  "name": "devtrack",
+  "version": "1.0.0",
+  "description": "Task Managing Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasaroskaAdrian/DevTrack.git"
+  },
+  "keywords": [
+    "Todo"
+  ],
+  "author": "Adrian Jasaroska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JasaroskaAdrian/DevTrack/issues"
+  },
+  "homepage": "https://github.com/JasaroskaAdrian/DevTrack#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
